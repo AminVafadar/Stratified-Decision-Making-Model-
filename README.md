@@ -7,7 +7,7 @@ Stratified-Decision-Making-Model
 
 # Description
 
-a decision support tool for the stratified decision-making model 
+A decision support tool for the stratified decision-making model 
 
 
 # How to Use
