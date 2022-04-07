@@ -4,7 +4,6 @@ Stratified-Decision-Making-Model
 
 
 
-
 # Description
 
 A decision support tool for the stratified decision-making model 
@@ -20,6 +19,7 @@ You can run the code in the R Studio.
 
 # Author info
 
+Check out my personal website: https://vafadarnikjoo.net/
 
 # Cite the code 
 
