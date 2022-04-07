@@ -22,7 +22,7 @@ You can run the code in the R Studio.
 Check out my personal website: https://vafadarnikjoo.net/
 
 # Cite the code 
-
+[![DOI](https://zenodo.org/badge/479031881.svg)](https://zenodo.org/badge/latestdoi/479031881)
 
 # License
 MIT License
