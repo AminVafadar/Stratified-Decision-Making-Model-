@@ -17,7 +17,7 @@ B <- 2
 # We've got N*M states.
 # We assumed the probabilities in W are equal. 
 #You may decide to insert your own W vector:
-W <- matrix(1/N*M,nrow=1,ncol=N*M)
+W <- matrix(1/(N*M),nrow=1,ncol=N*M)
 
 
 
@@ -160,7 +160,7 @@ for(j in 1:B){
 
 ATPFM<-matrix(0,nrow=B,ncol=N*M)
 for(i in 1:B){
-  for(j in 1:N*M){
+  for(j in 1:(N*M)){
     ATPFM[i,j]<-crossprod(UTS[i,],S[j,])
   }
 }
